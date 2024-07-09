@@ -10,3 +10,20 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.box {
+    background-color: black;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 50px;
+}
+
+.numbers {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 25px;
+}
