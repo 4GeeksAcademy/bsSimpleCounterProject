@@ -15,6 +15,7 @@ function SecondsCounter() {
         return () => clearInterval(interval);
     }, [isRunning]);
 
+    // HTML
     return (
         <div>
             <h1 className='numbers'>
